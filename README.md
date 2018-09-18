@@ -1,4 +1,4 @@
-This is a script to modify the data found in href(this)[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip] file. It can be run by placing the run_analysis.R file in the root directory and executing it in R.
+This is a script to modify the data found in [this](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) file. It can be run by placing the run_analysis.R file in the root directory and executing it in R.
 
 
 run_analysis.R
